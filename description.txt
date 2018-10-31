@@ -1,0 +1,42 @@
+Changelog:
+
+v1.2:
+- NEW:
+-> Removed the mod from VapeRPG.
+-> Now compatible with VapeRPG.
+
+v1.1.0.3:
+- Updated to tModLoader version v0.10.1.4
+
+v1.1.0.2:
+- Removed Dummy sword.
+
+v1.1.0.1 HOTFIX:
+- Fixed Max Minions and the regen stats not registering correctly.
+
+v1.1:
+- Added new stats for summoner and thrower.
+- Added life regen/mana regen.
+- Nerfed stat bonuses.
+- Fixed tooltips not showing correctly when reentering the world. 
+
+v1.0.2: 
+- Items no longer get the same stats all over again when crafting.
+
+v1.0.1: 
+- Fixed incompatibility with Fargo's Mutant Mod.
+
+ATTENTION: It's not recommended to use it in combination with VapeRPG because it has this mod's functionality implemented in it already.
+
+This mod adds qualities to items (in a World of Warcraft style). Keep in mind, that only accessories and armor can be qualified better than common (yet).
+
+Qualities:
+ Common: The default quality for any item.
+ Uncommon: Provides minor bonuses to the player's stats. Min stats: 1, Max stats: 3, chance: 15%
+ Rare: Provides better bonuses than Uncommon. Min stats: 2, Max Stats: 4, chance: 10%
+ Epic: Provides the best bonuses for ordinary qualities. Min stats: 3, Max Stats: 5, chance: 5%
+ Unique: Only some boss dropped items get this quality, stat bonuses are well paired here (no melee-magic combo, etc.).
+
+Unique quality items are dropped from almost any boss. For now, these are only armor set pieces and can't be obtained any other way.
+Bosses always drop one pieces of a set matching their tier. (for example, the Eye of Cthulhu drops Gold Armor pieces, all unique)
+Reforging doesn't reroll the quality of the item. Once an item gets qualified, it cannot be changed.

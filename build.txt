@@ -1,0 +1,12 @@
+author = FractalXX
+
+version = 1.2
+displayName = Vape Loot
+
+homepage = https://forums.terraria.org/index.php?threads/vapemods-by-fractalxx.60693/
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, .git\*, *.sln, *.git, *.psd
+includePDB = true
+hideCode = false
+includeSource = true
+languageVersion = 6
+weakReferences = VapeRPG@0.3.4
